@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="09#.S~{.V3TC=8~SUT)." x="0" y="0"></block><block type="device_forever" id="j2av!(g}j$R#Xd)k=4y2" x="562" y="176"><statement name="HANDLER"><block type="jacdac_servo_run" id="JT`Y:1DUy|EUWX,J%o6P"><field name="servo">fwdMotors.rightServo</field><value name="speed"><shadow type="speedPicker" id="|78l6Nc~oPyj]?,N.fnC"><field name="speed">100</field></shadow></value><next><block type="jacdac_servo_run" id="Ju.u!L/QOb5?qxYxwN*B"><field name="servo">fwdMotors.leftServo</field><value name="speed"><shadow type="speedPicker" id="izo:iGvT8syz[+htMWyo"><field name="speed">100</field></shadow></value><next><block type="device_show_leds" id=":L1cniYtD*Y}TS{)W59O"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field></block></next></block></next></block></statement></block></xml>
